@@ -1,0 +1,29 @@
+.head-logo{
+    background: orange;
+}
+.nav-darci{
+    color: darkorange;
+}
+img{
+    max-width: 130px;
+}
+.eigrp {
+    color: green;
+    background: black;
+}
+.ospf {
+    color: yellow;
+    background: black;
+}
+.basic-config{
+    color: orange;
+    background: black;
+}
+.ssh{
+    color: #2aabd2;
+    background: black;
+}
+.table{
+    background: black;
+    color: red;
+}
